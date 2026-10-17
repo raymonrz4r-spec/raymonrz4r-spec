@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Raymon Rosario 👋
+# Raymon Rosario
 ### Software Engineer · Backend Specialist · Process Automation
 
 <p align="center">
@@ -38,16 +38,16 @@ class SoftwareEngineer:
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 💻 **Backend Engineering:** Specialized in building high-throughput RESTful APIs, transactional architectures, and microservices with **Python (FastAPI)** and **C++**.
-- 🤖 **AI & Data Workflows:** Hands-on experience developing multimodal ingestion engines integrating **Google Gemini GenAI**, **Groq Whisper**, and audio/video ETL pipelines.
-- 🏢 **Operations Under Pressure:** Background in broadcast & media environments (Grupo de Medios Telemicro), diagnosing real-time incidents and engineering automation workflows that eliminate repetitive overhead.
-- 🎓 **Education:** Pursuing Software Engineering at **Universidad APEC (UNAPEC)** with rigorous focus on algorithms, data structures, and database systems.
+- **Backend Engineering:** Specialized in building high-throughput RESTful APIs, transactional architectures, and microservices with **Python (FastAPI)** and **C++**.
+- **AI & Data Workflows:** Hands-on experience developing multimodal ingestion engines integrating **Google Gemini GenAI**, **Groq Whisper**, and audio/video ETL pipelines.
+- **Operations Under Pressure:** Background in broadcast and media environments (Grupo de Medios Telemicro), diagnosing real-time incidents and engineering automation workflows that eliminate repetitive overhead.
+- **Education:** Pursuing Software Engineering at **Universidad APEC (UNAPEC)** with rigorous focus on algorithms, data structures, and database systems.
 
 ---
 
-## 🛠️ Technical Arsenal
+## Technical Arsenal
 
 <div align="center">
 
@@ -83,7 +83,7 @@ class SoftwareEngineer:
 
 ---
 
-## 🌟 Featured Engineering Projects
+## Featured Engineering Projects
 
 | Project | Stack | Highlights & Architecture |
 | :--- | :--- | :--- |
@@ -93,7 +93,7 @@ class SoftwareEngineer:
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -104,8 +104,8 @@ class SoftwareEngineer:
 
 ---
 
-## 📬 Let's Connect!
+## Contact
 
-- 💼 **LinkedIn:** [linkedin.com/in/raymon-rosario](https://www.linkedin.com/in/raymon-rosario/)
-- 📧 **Direct Inquiries:** [raymonrz4r@gmail.com](mailto:raymonrz4r@gmail.com)
-- 📍 **Location:** Santo Domingo, Dominican Republic *(Available for worldwide remote, hybrid, or on-site roles)*
+- **LinkedIn:** [linkedin.com/in/raymon-rosario](https://www.linkedin.com/in/raymon-rosario/)
+- **Direct Inquiries:** [raymonrz4r@gmail.com](mailto:raymonrz4r@gmail.com)
+- **Location:** Santo Domingo, Dominican Republic (Available for worldwide remote, hybrid, or on-site roles)
